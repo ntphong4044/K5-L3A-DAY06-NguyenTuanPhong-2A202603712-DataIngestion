@@ -5,4 +5,4 @@
 - Lớp: L3A
 - Chủ đề và corpus: Truy xuất thông tin trong Sổ tay sinh viên K64 (2023) — Trường ĐH Giao thông vận tải
 - Repo bài nộp: https://github.com/ntphong4044/K5-L3A-DAY06-NguyenTuanPhong-2A202603712-DataIngestion
-- Commit chốt bài:
+- Commit chốt bài: 657e6d473c8fb41250efdf72e1528e1191cdcfb8
