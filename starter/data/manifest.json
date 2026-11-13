@@ -1,0 +1,815 @@
+{
+  "generated_at": "2026-11-13T11:13:03+00:00",
+  "page_counting_rule": "Một trang PDF được tính là trang nội dung nếu text sau làm sạch (bỏ header 'STSV * n', gộp khoảng trắng) có >= 200 ký tự và tỷ lệ dấu chấm <= 25% (loại mục lục và trang 'Ghi chép').",
+  "total_content_pages": 74,
+  "sources": [
+    {
+      "source_id": "stsv-utc-k64",
+      "title": "Sổ tay sinh viên khóa 64 - 2023, Trường Đại học Giao thông vận tải (cập nhật APP eUTC 14/8/2023)",
+      "source_path_or_url": "https://khcb.utc.edu.vn/so-tay-sinh-vien-k64-2907404",
+      "source_note": "Website Trường ĐH GTVT",
+      "local_path": "data/raw/SoTaySinhVien-UTC-K64-2023.pdf",
+      "license_or_permission": "Tài liệu công khai trên website trường, dùng cho mục đích học tập.",
+      "accessed_at": "2026-11-13",
+      "version": "Cập nhật 14/8/2023",
+      "extraction": "pypdf extraction_mode=plain",
+      "physical_pages": 88,
+      "content_pages": 74,
+      "content_characters": 117523,
+      "pages": [
+        {
+          "page_id": "p01",
+          "page": 1,
+          "printed_page": 1,
+          "raw_chars": 201,
+          "normalized_chars": 87,
+          "counted": false,
+          "exclusion": "excluded_short_page:87_chars"
+        },
+        {
+          "page_id": "p02",
+          "page": 2,
+          "printed_page": 2,
+          "raw_chars": 46,
+          "normalized_chars": 0,
+          "counted": false,
+          "exclusion": "excluded_short_page:0_chars"
+        },
+        {
+          "page_id": "p03",
+          "page": 3,
+          "printed_page": 3,
+          "raw_chars": 2259,
+          "normalized_chars": 2217,
+          "counted": false,
+          "exclusion": "excluded_toc_or_blank_form:dot_ratio=0.55"
+        },
+        {
+          "page_id": "p04",
+          "page": 4,
+          "printed_page": 4,
+          "raw_chars": 987,
+          "normalized_chars": 947,
+          "counted": false,
+          "exclusion": "excluded_toc_or_blank_form:dot_ratio=0.60"
+        },
+        {
+          "page_id": "p05",
+          "page": 5,
+          "printed_page": 5,
+          "raw_chars": 1494,
+          "normalized_chars": 1447,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p06",
+          "page": 6,
+          "printed_page": 6,
+          "raw_chars": 19,
+          "normalized_chars": 0,
+          "counted": false,
+          "exclusion": "excluded_short_page:0_chars"
+        },
+        {
+          "page_id": "p07",
+          "page": 7,
+          "printed_page": 7,
+          "raw_chars": 1724,
+          "normalized_chars": 1625,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p08",
+          "page": 8,
+          "printed_page": 8,
+          "raw_chars": 1571,
+          "normalized_chars": 1528,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p09",
+          "page": 9,
+          "printed_page": 9,
+          "raw_chars": 390,
+          "normalized_chars": 366,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p10",
+          "page": 10,
+          "printed_page": 10,
+          "raw_chars": 977,
+          "normalized_chars": 939,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p11",
+          "page": 11,
+          "printed_page": 11,
+          "raw_chars": 901,
+          "normalized_chars": 871,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p12",
+          "page": 12,
+          "printed_page": 12,
+          "raw_chars": 2093,
+          "normalized_chars": 2045,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p13",
+          "page": 13,
+          "printed_page": 13,
+          "raw_chars": 2048,
+          "normalized_chars": 2000,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p14",
+          "page": 14,
+          "printed_page": 14,
+          "raw_chars": 1998,
+          "normalized_chars": 1951,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p15",
+          "page": 15,
+          "printed_page": 15,
+          "raw_chars": 2104,
+          "normalized_chars": 2056,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p16",
+          "page": 16,
+          "printed_page": 16,
+          "raw_chars": 2053,
+          "normalized_chars": 2004,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p17",
+          "page": 17,
+          "printed_page": 17,
+          "raw_chars": 2249,
+          "normalized_chars": 2199,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p18",
+          "page": 18,
+          "printed_page": 18,
+          "raw_chars": 1911,
+          "normalized_chars": 1867,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p19",
+          "page": 19,
+          "printed_page": 19,
+          "raw_chars": 1819,
+          "normalized_chars": 1773,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p20",
+          "page": 20,
+          "printed_page": 20,
+          "raw_chars": 2066,
+          "normalized_chars": 2019,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p21",
+          "page": 21,
+          "printed_page": 21,
+          "raw_chars": 1940,
+          "normalized_chars": 1892,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p22",
+          "page": 22,
+          "printed_page": 22,
+          "raw_chars": 1671,
+          "normalized_chars": 1610,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p23",
+          "page": 23,
+          "printed_page": 23,
+          "raw_chars": 2389,
+          "normalized_chars": 2342,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p24",
+          "page": 24,
+          "printed_page": 24,
+          "raw_chars": 1014,
+          "normalized_chars": 966,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p25",
+          "page": 25,
+          "printed_page": 25,
+          "raw_chars": 1614,
+          "normalized_chars": 1565,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p26",
+          "page": 26,
+          "printed_page": 26,
+          "raw_chars": 1865,
+          "normalized_chars": 1820,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p27",
+          "page": 27,
+          "printed_page": 27,
+          "raw_chars": 2202,
+          "normalized_chars": 2150,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p28",
+          "page": 28,
+          "printed_page": 28,
+          "raw_chars": 2261,
+          "normalized_chars": 2213,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p29",
+          "page": 29,
+          "printed_page": 29,
+          "raw_chars": 1824,
+          "normalized_chars": 1777,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p30",
+          "page": 30,
+          "printed_page": 30,
+          "raw_chars": 2068,
+          "normalized_chars": 2021,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p31",
+          "page": 31,
+          "printed_page": 31,
+          "raw_chars": 2365,
+          "normalized_chars": 2317,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p32",
+          "page": 32,
+          "printed_page": 32,
+          "raw_chars": 2189,
+          "normalized_chars": 2143,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p33",
+          "page": 33,
+          "printed_page": 33,
+          "raw_chars": 1906,
+          "normalized_chars": 1858,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p34",
+          "page": 34,
+          "printed_page": 34,
+          "raw_chars": 1975,
+          "normalized_chars": 1922,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p35",
+          "page": 35,
+          "printed_page": 35,
+          "raw_chars": 1958,
+          "normalized_chars": 1911,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p36",
+          "page": 36,
+          "printed_page": 36,
+          "raw_chars": 1562,
+          "normalized_chars": 1519,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p37",
+          "page": 37,
+          "printed_page": 37,
+          "raw_chars": 2311,
+          "normalized_chars": 2264,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p38",
+          "page": 38,
+          "printed_page": 38,
+          "raw_chars": 1911,
+          "normalized_chars": 1865,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p39",
+          "page": 39,
+          "printed_page": 39,
+          "raw_chars": 1980,
+          "normalized_chars": 1934,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p40",
+          "page": 40,
+          "printed_page": 40,
+          "raw_chars": 2106,
+          "normalized_chars": 2057,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p41",
+          "page": 41,
+          "printed_page": 41,
+          "raw_chars": 1853,
+          "normalized_chars": 1808,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p42",
+          "page": 42,
+          "printed_page": 42,
+          "raw_chars": 2262,
+          "normalized_chars": 2211,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p43",
+          "page": 43,
+          "printed_page": 43,
+          "raw_chars": 2007,
+          "normalized_chars": 1960,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p44",
+          "page": 44,
+          "printed_page": 44,
+          "raw_chars": 2122,
+          "normalized_chars": 2076,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p45",
+          "page": 45,
+          "printed_page": 45,
+          "raw_chars": 1712,
+          "normalized_chars": 1665,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p46",
+          "page": 46,
+          "printed_page": 46,
+          "raw_chars": 1786,
+          "normalized_chars": 1741,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p47",
+          "page": 47,
+          "printed_page": 47,
+          "raw_chars": 1987,
+          "normalized_chars": 1936,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p48",
+          "page": 48,
+          "printed_page": 48,
+          "raw_chars": 2318,
+          "normalized_chars": 2267,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p49",
+          "page": 49,
+          "printed_page": 49,
+          "raw_chars": 1647,
+          "normalized_chars": 1517,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p50",
+          "page": 50,
+          "printed_page": 50,
+          "raw_chars": 900,
+          "normalized_chars": 867,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p51",
+          "page": 51,
+          "printed_page": 51,
+          "raw_chars": 2251,
+          "normalized_chars": 2196,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p52",
+          "page": 52,
+          "printed_page": 52,
+          "raw_chars": 1935,
+          "normalized_chars": 1885,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p53",
+          "page": 53,
+          "printed_page": 53,
+          "raw_chars": 2085,
+          "normalized_chars": 2039,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p54",
+          "page": 54,
+          "printed_page": 54,
+          "raw_chars": 1479,
+          "normalized_chars": 1432,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p55",
+          "page": 55,
+          "printed_page": 55,
+          "raw_chars": 1743,
+          "normalized_chars": 1694,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p56",
+          "page": 56,
+          "printed_page": 56,
+          "raw_chars": 676,
+          "normalized_chars": 631,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p57",
+          "page": 57,
+          "printed_page": 57,
+          "raw_chars": 1539,
+          "normalized_chars": 1462,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p58",
+          "page": 58,
+          "printed_page": 58,
+          "raw_chars": 1790,
+          "normalized_chars": 1744,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p59",
+          "page": 59,
+          "printed_page": 59,
+          "raw_chars": 1412,
+          "normalized_chars": 1363,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p60",
+          "page": 60,
+          "printed_page": 60,
+          "raw_chars": 1799,
+          "normalized_chars": 1755,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p61",
+          "page": 61,
+          "printed_page": 61,
+          "raw_chars": 1515,
+          "normalized_chars": 1418,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p62",
+          "page": 62,
+          "printed_page": 62,
+          "raw_chars": 1860,
+          "normalized_chars": 1812,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p63",
+          "page": 63,
+          "printed_page": 63,
+          "raw_chars": 1292,
+          "normalized_chars": 1249,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p64",
+          "page": 64,
+          "printed_page": 64,
+          "raw_chars": 982,
+          "normalized_chars": 930,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p65",
+          "page": 65,
+          "printed_page": 65,
+          "raw_chars": 1897,
+          "normalized_chars": 1848,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p66",
+          "page": 66,
+          "printed_page": 66,
+          "raw_chars": 1814,
+          "normalized_chars": 1768,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p67",
+          "page": 67,
+          "printed_page": 67,
+          "raw_chars": 1859,
+          "normalized_chars": 1812,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p68",
+          "page": 68,
+          "printed_page": 68,
+          "raw_chars": 778,
+          "normalized_chars": 693,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p69",
+          "page": 69,
+          "printed_page": 69,
+          "raw_chars": 1126,
+          "normalized_chars": 1044,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p70",
+          "page": 70,
+          "printed_page": 70,
+          "raw_chars": 1163,
+          "normalized_chars": 1119,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p71",
+          "page": 71,
+          "printed_page": 71,
+          "raw_chars": 1398,
+          "normalized_chars": 1304,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p72",
+          "page": 72,
+          "printed_page": 72,
+          "raw_chars": 254,
+          "normalized_chars": 232,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p73",
+          "page": 73,
+          "printed_page": 73,
+          "raw_chars": 15,
+          "normalized_chars": 0,
+          "counted": false,
+          "exclusion": "excluded_short_page:0_chars"
+        },
+        {
+          "page_id": "p74",
+          "page": 74,
+          "printed_page": 74,
+          "raw_chars": 398,
+          "normalized_chars": 372,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p75",
+          "page": 75,
+          "printed_page": 75,
+          "raw_chars": 144,
+          "normalized_chars": 122,
+          "counted": false,
+          "exclusion": "excluded_short_page:122_chars"
+        },
+        {
+          "page_id": "p76",
+          "page": 76,
+          "printed_page": 76,
+          "raw_chars": 56,
+          "normalized_chars": 36,
+          "counted": false,
+          "exclusion": "excluded_short_page:36_chars"
+        },
+        {
+          "page_id": "p77",
+          "page": 77,
+          "printed_page": 77,
+          "raw_chars": 83,
+          "normalized_chars": 62,
+          "counted": false,
+          "exclusion": "excluded_short_page:62_chars"
+        },
+        {
+          "page_id": "p78",
+          "page": 78,
+          "printed_page": 78,
+          "raw_chars": 270,
+          "normalized_chars": 250,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p79",
+          "page": 79,
+          "printed_page": 79,
+          "raw_chars": 437,
+          "normalized_chars": 403,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p80",
+          "page": 80,
+          "printed_page": 80,
+          "raw_chars": 16,
+          "normalized_chars": 0,
+          "counted": false,
+          "exclusion": "excluded_short_page:0_chars"
+        },
+        {
+          "page_id": "p81",
+          "page": 81,
+          "printed_page": 81,
+          "raw_chars": 344,
+          "normalized_chars": 297,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p82",
+          "page": 82,
+          "printed_page": 82,
+          "raw_chars": 199,
+          "normalized_chars": 163,
+          "counted": false,
+          "exclusion": "excluded_short_page:163_chars"
+        },
+        {
+          "page_id": "p83",
+          "page": 83,
+          "printed_page": 83,
+          "raw_chars": 158,
+          "normalized_chars": 124,
+          "counted": false,
+          "exclusion": "excluded_short_page:124_chars"
+        },
+        {
+          "page_id": "p84",
+          "page": 84,
+          "printed_page": 84,
+          "raw_chars": 1937,
+          "normalized_chars": 1886,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p85",
+          "page": 85,
+          "printed_page": 85,
+          "raw_chars": 1300,
+          "normalized_chars": 1198,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p86",
+          "page": 86,
+          "printed_page": 86,
+          "raw_chars": 902,
+          "normalized_chars": 803,
+          "counted": true,
+          "exclusion": null
+        },
+        {
+          "page_id": "p87",
+          "page": 87,
+          "printed_page": 87,
+          "raw_chars": 3748,
+          "normalized_chars": 3653,
+          "counted": false,
+          "exclusion": "excluded_toc_or_blank_form:dot_ratio=0.99"
+        },
+        {
+          "page_id": "p88",
+          "page": 88,
+          "printed_page": 88,
+          "raw_chars": 3738,
+          "normalized_chars": 3644,
+          "counted": false,
+          "exclusion": "excluded_toc_or_blank_form:dot_ratio=0.99"
+        }
+      ]
+    }
+  ]
+}

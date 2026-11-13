@@ -1,4 +1,5 @@
-# Core setup and PDF parsing. Choose and install an embedding SDK separately.
+# Phiên bản đã dùng khi chạy bài (Python 3.10.11). Embedding chạy qua Ollama (bge-m3), gọi bằng requests.
 psycopg[binary]==3.3.8
-pypdf>=5,<7
-python-dotenv>=1,<2
+pypdf==7.0.0
+python-dotenv==1.2.4
+requests==2.34.2

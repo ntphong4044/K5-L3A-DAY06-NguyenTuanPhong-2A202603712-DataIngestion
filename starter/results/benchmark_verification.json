@@ -1,0 +1,12 @@
+{
+  "questions": 25,
+  "splits": {
+    "dev": 18,
+    "test": 7
+  },
+  "filter_questions": {
+    "dev": 3,
+    "test": 2
+  },
+  "evidence_not_found": []
+}

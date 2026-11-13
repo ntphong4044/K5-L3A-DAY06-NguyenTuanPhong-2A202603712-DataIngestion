@@ -1,0 +1,111 @@
+{
+  "model": "bge-m3",
+  "dimensions": 1024,
+  "top_k": 3,
+  "strategies": {
+    "A": {
+      "index": "A",
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "use_filter": true
+    }
+  },
+  "indexes": {
+    "A": {
+      "chunker": "fixed_size",
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "chunker": "by_paragraph",
+      "max_size": 900,
+      "heading_prefix": true
+    }
+  },
+  "metrics": {
+    "A/dev": {
+      "strategy": "A",
+      "split": "dev",
+      "N": 18,
+      "hit1": 13,
+      "hit3": 17,
+      "gold_page_top3": 18,
+      "evidence_split": 0,
+      "filter_q": 3,
+      "filter_ok": 1,
+      "Hit@1": "13/18",
+      "EvidenceHit@3": "17/18"
+    },
+    "A/test": {
+      "strategy": "A",
+      "split": "test",
+      "N": 7,
+      "hit1": 6,
+      "hit3": 7,
+      "gold_page_top3": 7,
+      "evidence_split": 0,
+      "filter_q": 2,
+      "filter_ok": 1,
+      "Hit@1": "6/7",
+      "EvidenceHit@3": "7/7"
+    },
+    "B/dev": {
+      "strategy": "B",
+      "split": "dev",
+      "N": 18,
+      "hit1": 15,
+      "hit3": 18,
+      "gold_page_top3": 18,
+      "evidence_split": 0,
+      "filter_q": 3,
+      "filter_ok": 0,
+      "Hit@1": "15/18",
+      "EvidenceHit@3": "18/18"
+    },
+    "B/test": {
+      "strategy": "B",
+      "split": "test",
+      "N": 7,
+      "hit1": 5,
+      "hit3": 7,
+      "gold_page_top3": 7,
+      "evidence_split": 0,
+      "filter_q": 2,
+      "filter_ok": 0,
+      "Hit@1": "5/7",
+      "EvidenceHit@3": "7/7"
+    },
+    "C/dev": {
+      "strategy": "C",
+      "split": "dev",
+      "N": 18,
+      "hit1": 15,
+      "hit3": 18,
+      "gold_page_top3": 18,
+      "evidence_split": 0,
+      "filter_q": 3,
+      "filter_ok": 3,
+      "Hit@1": "15/18",
+      "EvidenceHit@3": "18/18"
+    },
+    "C/test": {
+      "strategy": "C",
+      "split": "test",
+      "N": 7,
+      "hit1": 6,
+      "hit3": 7,
+      "gold_page_top3": 7,
+      "evidence_split": 0,
+      "filter_q": 2,
+      "filter_ok": 2,
+      "Hit@1": "6/7",
+      "EvidenceHit@3": "7/7"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "normalization_stats": {
+    "stsv-utc-k64": {
+      "page_header_removed": 88,
+      "icon_chars_removed": 31
+    }
+  },
+  "errors": [
+    {
+      "page": 1,
+      "error": "excluded_short_page:87_chars"
+    },
+    {
+      "page": 2,
+      "error": "excluded_short_page:0_chars"
+    },
+    {
+      "page": 3,
+      "error": "excluded_toc_or_blank_form:dot_ratio=0.55"
+    },
+    {
+      "page": 4,
+      "error": "excluded_toc_or_blank_form:dot_ratio=0.60"
+    },
+    {
+      "page": 6,
+      "error": "excluded_short_page:0_chars"
+    },
+    {
+      "page": 73,
+      "error": "excluded_short_page:0_chars"
+    },
+    {
+      "page": 75,
+      "error": "excluded_short_page:122_chars"
+    },
+    {
+      "page": 76,
+      "error": "excluded_short_page:36_chars"
+    },
+    {
+      "page": 77,
+      "error": "excluded_short_page:62_chars"
+    },
+    {
+      "page": 80,
+      "error": "excluded_short_page:0_chars"
+    },
+    {
+      "page": 82,
+      "error": "excluded_short_page:163_chars"
+    },
+    {
+      "page": 83,
+      "error": "excluded_short_page:124_chars"
+    },
+    {
+      "page": 87,
+      "error": "excluded_toc_or_blank_form:dot_ratio=0.99"
+    },
+    {
+      "page": 88,
+      "error": "excluded_toc_or_blank_form:dot_ratio=0.99"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,cố định theo ký tự trong từng trang,500,50,"document_id, source, page, printed_page, phan, phan_title, muc, muc_title",không,ollama bge-m3 (1024 chiều) + pgvector 0.8.7 cosine exact,"Baseline: cắt giữa từ/giữa khoản nên evidence dễ bị tách, chunk khó hiểu hơn B",13/18,17/18,6/7,7/7,"290 chunk; embed 97.2 s; chi phí 0; trượt top-3 ở d10 (evidence cuối trang 26 nằm ở chunk khác)"
+B,"theo cấu trúc sổ tay: ngắt cứng ở PHẦN/Chương/Điều/mục La Mã; gom khoản, điểm, gạch đầu dòng trong trang; gắn [Phần > mục] vào đầu chunk",900 tối đa,0,giống A,không,giống A,"Giữ trọn khoản/điểm + có tiêu đề Phần/mục sẽ tăng Hit@1/Hit@3 và coherence so với A",15/18,18/18,5/7,7/7,"197 chunk; embed 101.8 s; chi phí 0; không lọc nên câu filter lấy nhầm phần (0/3 dev, 0/2 test tuân thủ), ví dụ t06 top-1 là Phần 2.3 thay vì Phần 3"
+C,giống B (dùng chung index B),900 tối đa,0,giống A,"phan = phần sổ tay sinh viên đang đọc (5 câu có filter); câu khác không lọc",giống A,"Lọc theo phần sổ tay sẽ sửa lỗi nhầm giữa quy định (Phần 2.x) và hướng dẫn thủ tục (Phần 3) mà không ảnh hưởng câu khác; chỉ khác B đúng 1 yếu tố",15/18,18/18,6/7,7/7,"Tuân thủ filter 3/3 dev, 2/2 test; được chọn theo quy tắc chốt trước (hòa B ở Hit@3 và Hit@1 dev, hơn ở tuân thủ filter dev)"

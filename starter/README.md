@@ -1,5 +1,36 @@
 # Starter · PostgreSQL + pgvector
 
+> **Bài nộp của Nguyễn Tuấn Phong (2A202603712):**  Phần dưới đây là cách tái lập kết quả.
+
+## Chạy lại bài làm
+
+Corpus: Sổ tay sinh viên K64 (2023), Trường ĐH GTVT. PDF nằm ở `data/raw/SoTaySinhVien-UTC-K64-2023.pdf` (bản gốc: https://khcb.utc.edu.vn/so-tay-sinh-vien-k64-2907404). Benchmark nằm ở `benchmark/questions.json`, manifest ở `data/manifest.json`.
+
+Yêu cầu: Python 3.10+, Docker, [Ollama](https://ollama.com) chạy local ở `http://127.0.0.1:11434`. Không cần API key. Chạy các lệnh sau từ thư mục `starter/`:
+
+```bash
+python -m pip install -r requirements.txt
+ollama pull bge-m3                                   # embedding 1024 chiều
+# copy .env.example thành .env, đặt EMBEDDING_MODEL=bge-m3 (bỏ trống thì mặc định là bge-m3)
+docker compose -p day6_student_starter up -d --wait  # PostgreSQL 16 + pgvector
+python scripts/check_setup.py
+
+python -m src.run all        # = ingest -> verify -> index -> evaluate
+```
+
+Có thể chạy từng bước riêng:
+
+| Lệnh | Việc làm | Kết quả ghi ra |
+|---|---|---|
+| `python -m src.run ingest` | đọc PDF, chuẩn hóa, đếm trang nội dung | `data/processed/pages.jsonl`, `data/manifest.json`, `results/ingest_errors.json` |
+| `python -m src.run verify` | kiểm tra evidence của từng câu nằm trong trang gold | `results/benchmark_verification.json` |
+| `python -m src.run index` | chunk A và B, embed, upsert vào pgvector (chunk không đổi thì bỏ qua, chunk cũ thì xóa) | `results/chunk_stats.json`, `results/index_runs.json` |
+| `python -m src.run evaluate` | truy xuất top-3 cho A, B, C trên dev và test | `results/traces_{A,B,C}.jsonl`, `results/summary.json` |
+
+Nhãn thủ công nằm ở `results/manual/`. Khi chạy lại, `evaluate` không ghi đè các file nhãn đã có mà ghi sang `*_new.csv`. Báo cáo: [../report/individual/2A202603712_NguyenTuanPhong.md](../report/individual/2A202603712_NguyenTuanPhong.md).
+
+---
+
 Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
 
 ## Cấu trúc

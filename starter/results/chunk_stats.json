@@ -1,0 +1,36 @@
+{
+  "A": {
+    "config": {
+      "chunker": "fixed_size",
+      "size": 500,
+      "overlap": 50
+    },
+    "chunks": 290,
+    "total_chars": 128323,
+    "min": 58,
+    "median": 500.0,
+    "mean": 442.5,
+    "max": 500,
+    "under_100_chars": 12,
+    "by_document": {
+      "stsv-utc-k64": 290
+    }
+  },
+  "B": {
+    "config": {
+      "chunker": "by_paragraph",
+      "max_size": 900,
+      "heading_prefix": true
+    },
+    "chunks": 197,
+    "total_chars": 132278,
+    "min": 61,
+    "median": 755,
+    "mean": 671.5,
+    "max": 993,
+    "under_100_chars": 3,
+    "by_document": {
+      "stsv-utc-k64": 197
+    }
+  }
+}

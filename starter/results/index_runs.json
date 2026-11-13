@@ -1,0 +1,116 @@
+[
+  {
+    "model": "bge-m3",
+    "model_digest": "7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab",
+    "dimensions": 1024,
+    "run_at": "2026-11-13T10:54:11+00:00",
+    "indexes": {
+      "A": {
+        "config": {
+          "chunker": "fixed_size",
+          "size": 500,
+          "overlap": 50
+        },
+        "chunks_current": 290,
+        "embedded_this_run": 290,
+        "unchanged_skipped": 0,
+        "deleted_obsolete": 0,
+        "rows_in_db": 290,
+        "embed_seconds": 97.17,
+        "total_seconds": 97.56,
+        "cost_usd": 0.0
+      },
+      "B": {
+        "config": {
+          "chunker": "by_paragraph",
+          "max_size": 900,
+          "heading_prefix": true
+        },
+        "chunks_current": 197,
+        "embedded_this_run": 197,
+        "unchanged_skipped": 0,
+        "deleted_obsolete": 0,
+        "rows_in_db": 197,
+        "embed_seconds": 101.78,
+        "total_seconds": 102.04,
+        "cost_usd": 0.0
+      }
+    }
+  },
+  {
+    "model": "bge-m3",
+    "model_digest": "7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab",
+    "dimensions": 1024,
+    "run_at": "2026-11-13T10:57:31+00:00",
+    "indexes": {
+      "A": {
+        "config": {
+          "chunker": "fixed_size",
+          "size": 500,
+          "overlap": 50
+        },
+        "chunks_current": 290,
+        "embedded_this_run": 0,
+        "unchanged_skipped": 290,
+        "deleted_obsolete": 0,
+        "rows_in_db": 290,
+        "embed_seconds": 0.0,
+        "total_seconds": 0.01,
+        "cost_usd": 0.0
+      },
+      "B": {
+        "config": {
+          "chunker": "by_paragraph",
+          "max_size": 900,
+          "heading_prefix": true
+        },
+        "chunks_current": 197,
+        "embedded_this_run": 0,
+        "unchanged_skipped": 197,
+        "deleted_obsolete": 0,
+        "rows_in_db": 197,
+        "embed_seconds": 0.0,
+        "total_seconds": 0.02,
+        "cost_usd": 0.0
+      }
+    }
+  },
+  {
+    "model": "bge-m3",
+    "model_digest": "7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab",
+    "dimensions": 1024,
+    "run_at": "2026-11-13T11:10:09+00:00",
+    "indexes": {
+      "A": {
+        "config": {
+          "chunker": "fixed_size",
+          "size": 500,
+          "overlap": 50
+        },
+        "chunks_current": 290,
+        "embedded_this_run": 0,
+        "unchanged_skipped": 290,
+        "deleted_obsolete": 0,
+        "rows_in_db": 290,
+        "embed_seconds": 0.0,
+        "total_seconds": 0.01,
+        "cost_usd": 0.0
+      },
+      "B": {
+        "config": {
+          "chunker": "by_paragraph",
+          "max_size": 900,
+          "heading_prefix": true
+        },
+        "chunks_current": 197,
+        "embedded_this_run": 0,
+        "unchanged_skipped": 197,
+        "deleted_obsolete": 0,
+        "rows_in_db": 197,
+        "embed_seconds": 0.0,
+        "total_seconds": 0.01,
+        "cost_usd": 0.0
+      }
+    }
+  }
+]

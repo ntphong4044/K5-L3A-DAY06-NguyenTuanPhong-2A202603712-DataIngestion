@@ -1,0 +1,236 @@
+﻿vi_tri,trang_pdf,offset,index,chien_luoc,chunk_id,noi_dung_chunk,coherence_0_1_2,ly_do
+p05,5,723,A,A,stsv-utc-k64:fixed:p05:01,"thời cung cấp những thông tin cần thiết cho toàn bộ quá trình học
+tập tại Trường Đại học Giao thông vận tải.
+Môi trường học tập tại bậc đại học có điểm khác so với bậc học phổ
+thông, đó là việc tổ chức học tập theo hệ thống tín chỉ. Đây là hình thức đào
+tạo với quy trình mềm dẻo, lấy người học làm trung tâm, người học chủ động
+hơn trong quá trình học tập của mình. Ngoài ra các sinh viên cần nắm bắt được
+thông tin về các hoạt động đào tạo, rèn luyện của nhà trường. Vì vậy, đây là
+cẩm nang hỗ trợ ",1,Chunk bắt đầu giữa câu và dừng ở 'cẩm nang hỗ trợ' nên bị hụt cả đầu lẫn đuôi. Đoạn giữa nói về học theo tín chỉ thì vẫn đọc hiểu được.
+p13,13,1000,A,A,stsv-utc-k64:fixed:p13:02,"ỗi hình thức đào tạo, chương trình đào tạo cần cung cấp kế
+hoạch học tập chuẩn toàn khoá để định hướng cho sinh viên.
+a) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào
+tạo chính quy phải phù hợp với thời gian quy định trong Khung cơ cấu hệ
+thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành
+chương trình đào tạo;
+b) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào
+tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính",1,"Chữ đầu bị cắt mất ('ỗi hình thức'), không thấy số khoản. Ý b) đang nói dở thì hết chunk."
+p20,20,1009,A,A,stsv-utc-k64:fixed:p20:02,"hần và phải nhận điểm F là điểm học phần, giảng viên phụ trách lớp học phần
+công bố cho sinh viên biết tại buổi học cuối cùng của học phần.
+7. Quyền hạn của sinh viên khi tham dự các lớp học phần:
+a) Được giảng viên công bố thông tin về mục tiêu, nội dung, kế hoạch
+dạy học và các hình thức kiểm tra, đánh giá kết quả học tập của học phần ngay
+trong buổi học đầu tiên của lớp học phần;
+b) Tham gia học tập, đánh giá kết quả học tập theo đúng thời khóa biểu
+và hướng dẫn của giảng viên được phân công ",1,Mở đầu bằng '...hần và phải nhận điểm F' nên không biết sinh viên vi phạm điều kiện gì mà bị điểm F. Ý b) ở cuối cũng bị cắt ngang.
+p27,27,1075,A,A,stsv-utc-k64:fixed:p27:02,"môn quy định;
+b) Điểm bảo vệ là điểm TBC điểm các thành viên trong hội đồng chấm
+đồ án;
+c) Điểm học phần ĐATN tính theo công thức:
+Điểm ĐATN = Điểm quá trình a + Điểm bảo vệ b, trong đó a = 0,4, b = 0,6.
+2. Học phần ĐATN được công nhận là đạt nếu điểm học phần đạt từ 5,5
+điểm thang điểm 10 trở lên.
+3. Quy định về Hội đồng chấm Đồ án tốt nghiệp:
+a) Hội đồng chấm ĐATN có ít nhất 3 thành viên, tối đa 5 thành viên do
+Hiệu trưởng ra quyết định thành lập theo đề nghị của khoa/bộ môn phụ trách
+học phần",1,Thiếu tên Điều 14 và phần giải thích điểm quá trình ở đầu. Còn công thức tính điểm ĐATN và quy định hội đồng thì đọc vẫn hiểu.
+p34,34,961,A,A,stsv-utc-k64:fixed:p34:02,"ới thời lượng 04 tín chỉ. Đây là học phần ngoại ngữ bắt buộc trong chương
+trình đào tạo. Sinh viên cần phải hoàn thành học phần ngoại ngữ cấp độ B1
+(đạt trình độ ngoại ngữ cấp độ B1) khi tốt nghiệp. Sau khi đạt được trình độ
+ngoại ngữ A2, sinh viên mới được đăng ký học vào lớp học phần B1.
+Kết quả thi học phần ngoại ngữ B1 được tính vào kết quả học tập chung
+của toàn khóa.
+- Phần ngoại ngữ chuyên ngành: Sinh viên thuộc tất cả các ngành đào
+tạo của trường có học phần ngoại ngữ chuyên ngành được t",1,Đọc câu đầu 'ới thời lượng 04 tín chỉ' không biết đang nói học phần nào. Câu cuối dừng ở 'được t'.
+p41,41,904,A,A,stsv-utc-k64:fixed:p41:02,"ên thuộc diện hưởng học bổng chính sách, trợ cấp xã hội, trợ cấp
+ưu đãi theo quy định hiện hành được xét cấp học bổng KKHT như những sinh
+viên khác.
+- Học bổng khuyến khích học tập được cấp theo từng học kỳ và cấp 10
+tháng trong năm học.
+2. Học bổng chính sách
+a. Đối tượng được cấp học bổng chính sách (HBCS) là sinh viên hệ cử
+tuyển đang học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân.
+b. Mức học bổng chính sách: Theo Nghị định 134/2006 mức chi học bổng
+chính sách bằng 80% lương cơ b",1,"Bị cắt đúng chỗ quan trọng nhất: mức học bổng chính sách chỉ còn '80% lương cơ b', người đọc không biết là lương cơ bản hay lương cơ sở."
+p48,48,1133,A,A,stsv-utc-k64:fixed:p48:02,"o dục và Đào tạo ban hành.
+2. Được hưởng các quyền công dân cư trú trên địa bàn, được chính quyền
+địa phương, nhà trường tạo điều kiện thuận lợi và giúp đỡ trong việc ngoại trú.
+3. Được quyền khiếu nại, đề đạt nguyện vọng của mình đến chính quyền
+địa phương, Hiệu trưởng nhà trường và các cơ quan hữu quan đối với các vấn
+đề liên quan đến quyền, lợi ích chính đáng tại nơi cư trú.
+3. Nghĩa vụ của học sinh, sinh viên ngoại trú
+1. Thực hiện nghĩa vụ theo quy định hiện hành của Quy chế học sinh,
+sinh ",1,Không có tiêu đề nên đọc không biết đây là quyền của sinh viên ngoại trú. Câu cuối cũng chưa hết.
+p55,55,847,A,A,stsv-utc-k64:fixed:p55:01," ký.
+b) Trường hợp thẻ bị lỗi hoặc in sai thông tin không do lỗi của sinh viên:
+- Sinh viên không phải nộp lệ phí.
+- Đăng ký làm lại thẻ tại P103 - Nhà A9 vào Sáng thứ 5, Sáng thứ 6 hàng
+tuần.
+- Thẻ sinh viên sẽ được cấp lại sau 10 ngày kể từ ngày đăng ký
+VIII. HOẠT ĐỘNG SINH VIÊN - TỔ CHỨC ĐOÀN, HỘI
+1. Hoạt động sinh viên
+Nhà trường thường xuyên tạo ra rất nhiều hoạt động giao lưu văn hóa,
+văn nghệ, thể dục - thể thao… để kết nối, nâng cao đời sống sinh viên, hướng
+sinh viên quan tâm tới xã hội",1,"Bắt đầu ngay ở ý b) nên thiếu trường hợp a). Nửa sau lại nhảy sang mục VIII về hoạt động sinh viên, hai nội dung không liên quan nằm chung một chunk."
+p62,62,906,A,A,stsv-utc-k64:fixed:p62:02,"Đọc báo và tạp chí
+Bạn đọc có thể tiếp cận được với những báo, tạp chí chuyên ngành của các
+nhà xuất bản nổi tiếng nhất bằng các ngôn ngữ Anh, Nga, Đức, Pháp, Trung,
+Nhật; có thể sử dụng hơn 5.000 cuốn tạp chí bằng các ngôn ngữ khác nhau.
+3.3. Dịch vụ cung cấp GT, TLTK, tìm tin, … theo yêu cầu của bạn đọc:
+- Nhà sách Thư viện: Phòng 105 nhà N1
+Nhà sách cung cấp các tài liệu được sử dụng trong các học phần được
+giảng dạy tại Trường: sách, giáo trình của các môn học do các giảng viên trong
+Trường,",1,"Phần báo, tạp chí và nhà sách thư viện đọc khá rõ, chỉ mất chữ 'd.' ở đầu. Tuy vậy câu cuối vẫn dừng giữa chừng ở 'Trường,'."
+p69,69,522,A,A,stsv-utc-k64:fixed:p69:01,"uyển tiền
+nhanh 24/7 --> nhập số Tài khoản ViettelMoney, Ngân hàng nhận MB - CN
+Điện Biên Phủ
+(Để biết số tài khoản Viettel Money vào trang chủ mục: “Cá nhân”
+Bấm vào “Số tài khoản ViettelPay” Thông tin số TK là: 9704xxx --> sao
+chép tài khoản này để chuyển tiền)
+Cách 3: Nạp tiền vào Viettel Money của mình tại các cửa hàng Viettel
+trên toàn quốc miễn phí.
+4. Hướng dẫn nộp học phí:
+Đăng nhập vào “Viettel Money” Chọn mục “Nộp học phí” Chọn
+logo “Đại học, Cao đẳng” Chọn logo “Trường Đại học GTVT” N",1,"Mở đầu ở giữa bước chuyển tiền, không thấy tiêu đề 'Cách 2'. Phần hướng dẫn nộp học phí vừa bắt đầu thì hết chunk."
+p05,5,723,B,"B,C (cùng chunk)",stsv-utc-k64:para:p05:00,"[Lời nói đầu]
+LỜI NÓI ĐẦU
+Chào mừng các bạn đã trở thành sinh viên của Trường Đại học Giao
+thông vận tải! Đến với Trường Đại học Giao thông vận tải bạn sẽ được học
+tập trong môi trường mới, điều kiện học tập mới, Thầy, Cô, bạn bè mới, đặc
+biệt các bạn đã trưởng thành hơn và phải tự chủ hơn trong học tập.
+Cuốn “Sổ tay sinh viên” được biên soạn nhằm giúp các bạn sinh viên nắm
+vững được các quy chế, quy định của Nhà nước, Nhà trường về học tập và rèn
+luyện, đồng thời cung cấp những thông tin cần thiết cho toàn bộ quá trình học
+tập tại Trường Đại học Giao thông vận tải.
+Môi trường học tập tại bậc đại học có điểm khác so với bậc học phổ
+thông, đó là việc tổ chức học tập theo hệ thống tín chỉ. Đây là hình thức đào
+tạo với quy trình mềm dẻo, lấy người học làm trung tâm, người học chủ động
+hơn trong quá trình học tập của mình.",2,"Trọn vẹn đoạn Lời nói đầu, câu nào cũng đầy đủ, đọc một mình vẫn hiểu."
+p13,13,1000,B,"B,C (cùng chunk)",stsv-utc-k64:para:p13:01,"[Phần 2.1. Quy chế đào tạo đại học > Điều 2. Chương trình đào tạo và thời gian học tập]
+5. Đối với mỗi hình thức đào tạo, chương trình đào tạo cần cung cấp kế
+hoạch học tập chuẩn toàn khoá để định hướng cho sinh viên.
+a) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào
+tạo chính quy phải phù hợp với thời gian quy định trong Khung cơ cấu hệ
+thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành
+chương trình đào tạo;
+b) Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào
+tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính quy
+của cùng chương trình đào tạo.",2,"Có đủ khoản 5 với cả hai ý a, b. Tiêu đề cho biết đây là Điều 2 của quy chế đào tạo nên đọc là hiểu ngay."
+p20,20,1009,B,"B,C (cùng chunk)",stsv-utc-k64:para:p20:01,"[Phần 2.1. Quy chế đào tạo đại học > Điều 8. Tổ chức giảng dạy và học tập]
+d) Đối với các học phần Tiểu luận, Bài tập lớn, Đồ án/TKMH/Dự án:
+Sinh viên phải thực hiện nhiệm vụ theo tiến độ quy định trong đề cương chi
+tiết học phần hoặc yêu cầu trong Phiếu giao Tiểu luận, Bài tập lớn, Đồ
+án/TKMH/Dự án;
+Sinh viên vi phạm các điều kiện trên sẽ không được dự thi kết thúc học
+phần và phải nhận điểm F là điểm học phần, giảng viên phụ trách lớp học phần
+công bố cho sinh viên biết tại buổi học cuối cùng của học phần.
+7. Quyền hạn của sinh viên khi tham dự các lớp học phần:
+a) Được giảng viên công bố thông tin về mục tiêu, nội dung, kế hoạch
+dạy học và các hình thức kiểm tra, đánh giá kết quả học tập của học phần ngay
+trong buổi học đầu tiên của lớp học phần;
+b) Tham gia học tập, đánh giá kết quả học tập theo đúng thời khóa biểu
+và hướng dẫn của giảng viên được phân công giảng dạy lớp học phần;",1,Có tiêu đề Điều 8 nhưng câu 'vi phạm các điều kiện trên' lại nhắc tới các ý a–c nằm ở chunk trước. Danh sách quyền ở khoản 7 cũng chưa hết.
+p27,27,1075,B,"B,C (cùng chunk)",stsv-utc-k64:para:p27:01,"[Phần 2.1. Quy chế đào tạo đại học > Điều 14. Đánh giá học phần đồ án tốt nghiệp]
+Điều 14. Đánh giá học phần đồ án tốt nghiệp
+1. Học phần ĐATN được đánh giá bởi điểm quá trình và điểm bảo vệ đồ
+án, trong đó:
+a) Điểm đánh giá quá trình là TBC điểm của người hướng dẫn, điểm của
+người đọc duyệt đồ án và điểm khác (nếu có) do khoa/bộ môn quy định;
+b) Điểm bảo vệ là điểm TBC điểm các thành viên trong hội đồng chấm
+đồ án;
+c) Điểm học phần ĐATN tính theo công thức:
+Điểm ĐATN = Điểm quá trình a + Điểm bảo vệ b, trong đó a = 0,4, b = 0,6.
+2. Học phần ĐATN được công nhận là đạt nếu điểm học phần đạt từ 5,5
+điểm thang điểm 10 trở lên.
+3. Quy định về Hội đồng chấm Đồ án tốt nghiệp:
+a) Hội đồng chấm ĐATN có ít nhất 3 thành viên, tối đa 5 thành viên do
+Hiệu trưởng ra quyết định thành lập theo đề nghị của khoa/bộ môn phụ trách
+học phần và phòng Đào tạo đại học. Hội đồng gồm chủ tịch hội đồng, thư ký
+hội đồng và các ủy viên hội đồng;",2,"Gần như trọn Điều 14: cách tính điểm, điều kiện đạt và thành phần hội đồng đều có, đọc riêng vẫn hiểu."
+p34,34,961,B,"B,C (cùng chunk)",stsv-utc-k64:para:p34:01,"[Phần 2.2. Quy định về chuẩn đầu ra ngoại ngữ]
+- Phần ngoại ngữ cơ bản: bao gồm 01 học phần ngoại ngữ cấp độ B1
+với thời lượng 04 tín chỉ. Đây là học phần ngoại ngữ bắt buộc trong chương
+trình đào tạo. Sinh viên cần phải hoàn thành học phần ngoại ngữ cấp độ B1
+(đạt trình độ ngoại ngữ cấp độ B1) khi tốt nghiệp. Sau khi đạt được trình độ
+ngoại ngữ A2, sinh viên mới được đăng ký học vào lớp học phần B1.
+Kết quả thi học phần ngoại ngữ B1 được tính vào kết quả học tập chung
+của toàn khóa.
+- Phần ngoại ngữ chuyên ngành: Sinh viên thuộc tất cả các ngành đào
+tạo của trường có học phần ngoại ngữ chuyên ngành được thiết kế thống nhất
+chung là 03 tín chỉ trong chương trình đào tạo, nội dung của học phần phù hợp
+và đáp ứng yêu cầu đối với từng ngành và từng lĩnh vực.
+2. Tổ chức đào tạo ngoại ngữ",2,Hai ý về ngoại ngữ cơ bản và ngoại ngữ chuyên ngành đều đầy đủ. Dòng tiêu đề '2. Tổ chức đào tạo ngoại ngữ' ở cuối hơi thừa nhưng không gây khó hiểu.
+p41,41,904,B,"B,C (cùng chunk)",stsv-utc-k64:para:p41:01,"[Phần 2.5. Quy định về học bổng]
+- Sinh viên thuộc diện hưởng học bổng chính sách, trợ cấp xã hội, trợ cấp
+ưu đãi theo quy định hiện hành được xét cấp học bổng KKHT như những sinh
+viên khác.
+- Học bổng khuyến khích học tập được cấp theo từng học kỳ và cấp 10
+tháng trong năm học.
+2. Học bổng chính sách
+a. Đối tượng được cấp học bổng chính sách (HBCS) là sinh viên hệ cử
+tuyển đang học tại các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân.",2,"Các ý về học bổng khuyến khích và đối tượng hưởng học bổng chính sách đều trọn câu. Mức học bổng nằm ở chunk sau, nhưng chunk này đọc riêng vẫn hiểu."
+p48,48,1133,B,"B,C (cùng chunk)",stsv-utc-k64:para:p48:01,"[Phần 2.8. Quy định quản lý sinh viên ngoại trú]
+1. Học sinh, sinh viên ngoại trú được hưởng các quyền theo quy định hiện
+hành của Quy chế học sinh, sinh viên trường đại học, cao đẳng và trung cấp
+chuyên nghiệp hệ chính quy do Bộ Giáo dục và Đào tạo ban hành.
+2. Được hưởng các quyền công dân cư trú trên địa bàn, được chính quyền
+địa phương, nhà trường tạo điều kiện thuận lợi và giúp đỡ trong việc ngoại trú.
+3. Được quyền khiếu nại, đề đạt nguyện vọng của mình đến chính quyền
+địa phương, Hiệu trưởng nhà trường và các cơ quan hữu quan đối với các vấn
+đề liên quan đến quyền, lợi ích chính đáng tại nơi cư trú.
+3. Nghĩa vụ của học sinh, sinh viên ngoại trú
+1. Thực hiện nghĩa vụ theo quy định hiện hành của Quy chế học sinh,
+sinh viên trường đại học, cao đẳng và trung cấp chuyên nghiệp hệ chính quy
+do Bộ Giáo dục và Đào tạo ban hành.",2,Liệt kê đủ ba quyền và nghĩa vụ đầu tiên của sinh viên ngoại trú. Có tiêu đề Phần 2.8 nên biết ngay đang nói về ai.
+p55,55,847,B,"B,C (cùng chunk)",stsv-utc-k64:para:p55:01,"[Phần 3. Hướng dẫn thủ tục và dịch vụ cho sinh viên > Mục VIII. HOẠT ĐỘNG SINH VIÊN - TỔ CHỨC ĐOÀN, HỘI]
+VIII. HOẠT ĐỘNG SINH VIÊN - TỔ CHỨC ĐOÀN, HỘI
+1. Hoạt động sinh viên
+Nhà trường thường xuyên tạo ra rất nhiều hoạt động giao lưu văn hóa,
+văn nghệ, thể dục - thể thao… để kết nối, nâng cao đời sống sinh viên, hướng
+sinh viên quan tâm tới xã hội, cộng đồng, ngành nghề.
+Đặc biệt, hoạt động nghiên cứu khoa học của sinh viên ngày càng phát
+triển mạnh. Tuần lễ nghiên cứu khoa học sinh viên được tổ chức định kỳ hàng
+năm thu hút đông đảo sinh viên tham gia và đạt chất lượng cao. Nhiều sinh
+viên của Trường tham gia các kỳ thi Olympic sinh viên toàn quốc, sân chơi
+Robocon, lái xe sinh thái - thiết kế động cơ tiết kiệm nhiên liệu Honda,… đều
+giành các giải cao.
+Nhà trường thường xuyên tổ chức, duy trì và hỗ trợ hoạt động nhiều CLB,
+Tổ, Đội, Nhóm và khuyến khích sinh viên tham gia sẽ được cộng điểm rèn luyện
+sinh viên và cộng điểm hoạt động Đoàn, Hội.",2,"Trọn đoạn giới thiệu hoạt động sinh viên ở mục VIII, câu đầu và câu cuối đều hoàn chỉnh."
+p62,62,906,B,"B,C (cùng chunk)",stsv-utc-k64:para:p62:01,"[Phần 3. Hướng dẫn thủ tục và dịch vụ cho sinh viên > Mục IX. TRUNG TÂM THÔNG TIN - THƯ VIỆN]
+d. Đọc báo và tạp chí
+Bạn đọc có thể tiếp cận được với những báo, tạp chí chuyên ngành của các
+nhà xuất bản nổi tiếng nhất bằng các ngôn ngữ Anh, Nga, Đức, Pháp, Trung,
+Nhật; có thể sử dụng hơn 5.000 cuốn tạp chí bằng các ngôn ngữ khác nhau.
+3.3. Dịch vụ cung cấp GT, TLTK, tìm tin, … theo yêu cầu của bạn đọc:
+- Nhà sách Thư viện: Phòng 105 nhà N1
+Nhà sách cung cấp các tài liệu được sử dụng trong các học phần được
+giảng dạy tại Trường: sách, giáo trình của các môn học do các giảng viên trong
+Trường, các tác giả ngoài Trường biên soạn.
+3.4. Dịch vụ tìm tin, tìm tài liệu theo yêu cầu: Tầng 6 nhà A8
+Hỗ trợ, hướng dẫn, tìm kiếm thông tin, cung cấp các sản phẩm thông tin
+theo yêu cầu cho người dùng tin dưới dạng bản in, điện tử, cơ sở dữ liệu thư
+mục, cơ sở dữ liệu toàn văn.",2,"Các mục báo, tạp chí, nhà sách và dịch vụ tìm tin đều đầy đủ, có ghi rõ phòng và nhà."
+p69,69,522,B,"B,C (cùng chunk)",stsv-utc-k64:para:p69:00,"[Phần 3. Hướng dẫn thủ tục và dịch vụ cho sinh viên > Mục XIII. HỌC PHÍ - HỌC BỔNG, TRỢ CẤP]
+3. Hướng dẫn liên kết tài khoản Ngân hàng với Viettel Money:
+Cách 1: Thực hiện trên phần mềm Viettel Money
+B1. Đăng nhâp
+Viettel Money
+Chọn Cá nhân
+B2. Chọn Tài
+khoản liên kết
+B3. Chọn liên
+kết thẻ ngân
+hàng
+Cách nạp tiền:
+Nạp tiền từ NH sang ViettelPay chọn “Nạp tiền” (dấu + trên màn hình) nhập số tiền
+cần nạp (miễn phí).
+Cách 2: Chuyển tiền nhanh 24/7 từ Ngân hàng vào tài khoản Viettel Money:
+Đăng nhập vào App của Ngân hàng đang sử dụng chọn chuyển tiền
+nhanh 24/7 --> nhập số Tài khoản ViettelMoney, Ngân hàng nhận MB - CN
+Điện Biên Phủ
+(Để biết số tài khoản Viettel Money vào trang chủ mục: “Cá nhân”
+Bấm vào “Số tài khoản ViettelPay” Thông tin số TK là: 9704xxx --> sao
+chép tài khoản này để chuyển tiền)
+Cách 3: Nạp tiền vào Viettel Money của mình tại các cửa hàng Viettel
+trên toàn quốc miễn phí.",2,Có đủ ba cách nạp tiền vào Viettel Money. Phần chú thích hình B1–B3 bị xuống dòng lộn xộn nhưng vẫn đọc ra được các bước.
